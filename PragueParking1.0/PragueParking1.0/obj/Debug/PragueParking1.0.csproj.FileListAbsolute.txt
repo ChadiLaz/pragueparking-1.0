@@ -1,0 +1,6 @@
+/Users/shadylaz/Documents/PragueParking 1.0/PragueParking1.0/PragueParking1.0/bin/Debug/PragueParking1.0.exe
+/Users/shadylaz/Documents/PragueParking 1.0/PragueParking1.0/PragueParking1.0/bin/Debug/PragueParking1.0.pdb
+/Users/shadylaz/Documents/PragueParking 1.0/PragueParking1.0/PragueParking1.0/obj/Debug/PragueParking1.0.csprojAssemblyReference.cache
+/Users/shadylaz/Documents/PragueParking 1.0/PragueParking1.0/PragueParking1.0/obj/Debug/PragueParking1.0.csproj.CoreCompileInputs.cache
+/Users/shadylaz/Documents/PragueParking 1.0/PragueParking1.0/PragueParking1.0/obj/Debug/PragueParking1.0.exe
+/Users/shadylaz/Documents/PragueParking 1.0/PragueParking1.0/PragueParking1.0/obj/Debug/PragueParking1.0.pdb
